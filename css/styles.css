@@ -5,12 +5,12 @@
 
 @font-face {
     font-family: 'SpaceGrotesk';
-    src: url(Drijvende-Dromen/fonts/SpaceGrotesk-VariableFont_wght.ttf) format('truetype');
-}
+    src: url(fonts/SpaceGrotesk-VariableFont_wght.ttf) format('truetype');
+} 
 
 @font-face {
     font-family: 'Quicksand';
-    src: url(/fonts/Quicksand-VariableFont_wght.ttf) format('truetype');
+    src: url(fonts/Quicksand-VariableFont_wght.ttf) format('truetype');
 }
 
 body { 
